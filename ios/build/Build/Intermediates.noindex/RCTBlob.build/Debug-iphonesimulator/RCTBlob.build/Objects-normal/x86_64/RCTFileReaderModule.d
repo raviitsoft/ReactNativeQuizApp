@@ -1,0 +1,24 @@
+dependencies: \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/node_modules/react-native/Libraries/Blob/RCTFileReaderModule.m \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/node_modules/react-native/Libraries/Blob/RCTFileReaderModule.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Volumes/WORKSPACE/ReactNative/ReactNativeQuizApp/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h
